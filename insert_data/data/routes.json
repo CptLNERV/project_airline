@@ -1,0 +1,2656 @@
+[{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "5599",
+  "flight_iata": "AF5599",
+  "flight_icao": "AFR5599",
+  "cs_airline_iata": "DL",
+  "cs_flight_iata": "DL291",
+  "cs_flight_number": "291",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "15:20",
+  "dep_time_utc": "14:20",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "3",
+    "TBIT"
+  ],
+  "arr_time": "18:35",
+  "arr_time_utc": "02:35",
+  "duration": 735,
+  "aircraft_icao": null,
+  "counter": 33080,
+  "updated": "2024-01-20T03:00:34.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "66",
+  "flight_iata": "AF66",
+  "flight_icao": "AFR66",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "10:15",
+  "dep_time_utc": "09:15",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "13:00",
+  "arr_time_utc": "21:00",
+  "duration": 705,
+  "aircraft_icao": "B77W",
+  "counter": 29623,
+  "updated": "2024-01-21T00:58:05.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "72",
+  "flight_iata": "AF72",
+  "flight_icao": "AFR72",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "13:30",
+  "dep_time_utc": "12:30",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "16:15",
+  "arr_time_utc": "00:15",
+  "duration": 705,
+  "aircraft_icao": "B772",
+  "counter": 25957,
+  "updated": "2024-01-21T00:58:06.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "76",
+  "flight_iata": "AF76",
+  "flight_icao": "AFR76",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "18:55",
+  "dep_time_utc": "17:55",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "21:35",
+  "arr_time_utc": "05:35",
+  "duration": 700,
+  "aircraft_icao": "B772",
+  "counter": 11656,
+  "updated": "2024-01-21T00:58:06.000Z",
+  "days": [
+    "sat",
+    "thu",
+    "tue"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "78",
+  "flight_iata": "AF78",
+  "flight_icao": "AFR78",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "18:55",
+  "dep_time_utc": "17:55",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "21:35",
+  "arr_time_utc": "05:35",
+  "duration": 700,
+  "aircraft_icao": null,
+  "counter": 7426,
+  "updated": "2024-01-15T06:00:06.000Z",
+  "days": [
+    "fri",
+    "sun"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "5599",
+  "flight_iata": "AF5599",
+  "flight_icao": "AFR5599",
+  "cs_airline_iata": "DL",
+  "cs_flight_iata": "DL291",
+  "cs_flight_number": "291",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "15:20",
+  "dep_time_utc": "14:20",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "3",
+    "TBIT"
+  ],
+  "arr_time": "18:35",
+  "arr_time_utc": "02:35",
+  "duration": 735,
+  "aircraft_icao": null,
+  "counter": 33080,
+  "updated": "2024-01-20T03:00:34.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "66",
+  "flight_iata": "AF66",
+  "flight_icao": "AFR66",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "10:15",
+  "dep_time_utc": "09:15",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "13:00",
+  "arr_time_utc": "21:00",
+  "duration": 705,
+  "aircraft_icao": "B77W",
+  "counter": 29623,
+  "updated": "2024-01-21T00:58:05.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "72",
+  "flight_iata": "AF72",
+  "flight_icao": "AFR72",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "13:30",
+  "dep_time_utc": "12:30",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "16:15",
+  "arr_time_utc": "00:15",
+  "duration": 705,
+  "aircraft_icao": "B772",
+  "counter": 25957,
+  "updated": "2024-01-21T00:58:06.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "76",
+  "flight_iata": "AF76",
+  "flight_icao": "AFR76",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "18:55",
+  "dep_time_utc": "17:55",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "21:35",
+  "arr_time_utc": "05:35",
+  "duration": 700,
+  "aircraft_icao": "B772",
+  "counter": 11656,
+  "updated": "2024-01-21T00:58:06.000Z",
+  "days": [
+    "sat",
+    "thu",
+    "tue"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "78",
+  "flight_iata": "AF78",
+  "flight_icao": "AFR78",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "18:55",
+  "dep_time_utc": "17:55",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "21:35",
+  "arr_time_utc": "05:35",
+  "duration": 700,
+  "aircraft_icao": null,
+  "counter": 7426,
+  "updated": "2024-01-15T06:00:06.000Z",
+  "days": [
+    "fri",
+    "sun"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "5599",
+  "flight_iata": "AF5599",
+  "flight_icao": "AFR5599",
+  "cs_airline_iata": "DL",
+  "cs_flight_iata": "DL291",
+  "cs_flight_number": "291",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "15:20",
+  "dep_time_utc": "14:20",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "3",
+    "TBIT"
+  ],
+  "arr_time": "18:35",
+  "arr_time_utc": "02:35",
+  "duration": 735,
+  "aircraft_icao": null,
+  "counter": 33080,
+  "updated": "2024-01-20T03:00:34.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "66",
+  "flight_iata": "AF66",
+  "flight_icao": "AFR66",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "10:15",
+  "dep_time_utc": "09:15",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "13:00",
+  "arr_time_utc": "21:00",
+  "duration": 705,
+  "aircraft_icao": "B77W",
+  "counter": 29392,
+  "updated": "2024-01-20T09:57:47.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "72",
+  "flight_iata": "AF72",
+  "flight_icao": "AFR72",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "13:30",
+  "dep_time_utc": "12:30",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "16:15",
+  "arr_time_utc": "00:15",
+  "duration": 705,
+  "aircraft_icao": null,
+  "counter": 25741,
+  "updated": "2024-01-20T09:57:48.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "76",
+  "flight_iata": "AF76",
+  "flight_icao": "AFR76",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "18:55",
+  "dep_time_utc": "17:55",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "21:35",
+  "arr_time_utc": "05:35",
+  "duration": 700,
+  "aircraft_icao": null,
+  "counter": 11440,
+  "updated": "2024-01-20T09:57:48.000Z",
+  "days": [
+    "sat",
+    "thu",
+    "tue"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "78",
+  "flight_iata": "AF78",
+  "flight_icao": "AFR78",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "18:55",
+  "dep_time_utc": "17:55",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "21:35",
+  "arr_time_utc": "05:35",
+  "duration": 700,
+  "aircraft_icao": null,
+  "counter": 7426,
+  "updated": "2024-01-15T06:00:06.000Z",
+  "days": [
+    "fri",
+    "sun"
+  ]
+},
+{
+  "airline_iata": "AA",
+  "airline_icao": "AAL",
+  "flight_number": "7942",
+  "flight_iata": "AA7942",
+  "flight_icao": "AAL7942",
+  "cs_airline_iata": "TN",
+  "cs_flight_iata": "TN7",
+  "cs_flight_number": "7",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2B",
+    "2D"
+  ],
+  "dep_time": "11:35",
+  "dep_time_utc": "10:35",
+  "arr_iata": "LAX",
+  "arr_icao": "KLAX",
+  "arr_terminals": [
+    "TBIT"
+  ],
+  "arr_time": "14:15",
+  "arr_time_utc": "22:15",
+  "duration": 700,
+  "aircraft_icao": null,
+  "counter": 10306,
+  "updated": "2024-01-20T23:00:19.000Z",
+  "days": [
+    "mon",
+    "sat",
+    "tue"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "90",
+  "flight_iata": "AF90",
+  "flight_icao": "AFR90",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "13:20",
+  "dep_time_utc": "12:20",
+  "arr_iata": "MIA",
+  "arr_icao": "KMIA",
+  "arr_terminals": [
+    "S"
+  ],
+  "arr_time": "17:30",
+  "arr_time_utc": "22:30",
+  "duration": 610,
+  "aircraft_icao": "B77W",
+  "counter": 24391,
+  "updated": "2024-01-18T21:58:32.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "92",
+  "flight_iata": "AF92",
+  "flight_icao": "AFR92",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "16:30",
+  "dep_time_utc": "15:30",
+  "arr_iata": "MIA",
+  "arr_icao": "KMIA",
+  "arr_terminals": [
+    "S"
+  ],
+  "arr_time": "20:45",
+  "arr_time_utc": "01:45",
+  "duration": 615,
+  "aircraft_icao": "B772",
+  "counter": 13802,
+  "updated": "2024-01-18T21:58:32.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AA",
+  "airline_icao": "AAL",
+  "flight_number": "63",
+  "flight_iata": "AA63",
+  "flight_icao": "AAL63",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2B"
+  ],
+  "dep_time": "09:30",
+  "dep_time_utc": "08:30",
+  "arr_iata": "MIA",
+  "arr_icao": "KMIA",
+  "arr_terminals": [
+    "N",
+    "C"
+  ],
+  "arr_time": "13:54",
+  "arr_time_utc": "18:54",
+  "duration": 624,
+  "aircraft_icao": "B772",
+  "counter": 24064,
+  "updated": "2024-01-20T19:58:21.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "4081",
+  "flight_iata": "AF4081",
+  "flight_icao": "AFR4081",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "LAX",
+  "dep_icao": "KLAX",
+  "dep_terminals": [
+    "TBIT"
+  ],
+  "dep_time": "17:35",
+  "dep_time_utc": "01:35",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "13:25",
+  "arr_time_utc": "12:25",
+  "duration": 650,
+  "aircraft_icao": null,
+  "counter": 187,
+  "updated": "2023-12-21T12:59:33.000Z",
+  "days": [
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "65",
+  "flight_iata": "AF65",
+  "flight_icao": "AFR65",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "LAX",
+  "dep_icao": "KLAX",
+  "dep_terminals": [
+    "TBIT"
+  ],
+  "dep_time": "15:25",
+  "dep_time_utc": "23:25",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "11:15",
+  "arr_time_utc": "10:15",
+  "duration": 650,
+  "aircraft_icao": "B77W",
+  "counter": 40651,
+  "updated": "2024-01-21T00:58:04.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "69",
+  "flight_iata": "AF69",
+  "flight_icao": "AFR69",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "LAX",
+  "dep_icao": "KLAX",
+  "dep_terminals": [
+    "TBIT"
+  ],
+  "dep_time": "18:35",
+  "dep_time_utc": "02:35",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "14:20",
+  "arr_time_utc": "13:20",
+  "duration": 645,
+  "aircraft_icao": null,
+  "counter": 22252,
+  "updated": "2024-01-21T00:58:04.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "77",
+  "flight_iata": "AF77",
+  "flight_icao": "AFR77",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "LAX",
+  "dep_icao": "KLAX",
+  "dep_terminals": [
+    "TBIT"
+  ],
+  "dep_time": "11:30",
+  "dep_time_utc": "19:30",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "07:15",
+  "arr_time_utc": "06:15",
+  "duration": 645,
+  "aircraft_icao": null,
+  "counter": 395,
+  "updated": "2024-01-12T07:58:41.000Z",
+  "days": [
+    "thu"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "77",
+  "flight_iata": "AF77",
+  "flight_icao": "AFR77",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "LAX",
+  "dep_icao": "KLAX",
+  "dep_terminals": [
+    "TBIT"
+  ],
+  "dep_time": "21:05",
+  "dep_time_utc": "05:05",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "16:50",
+  "arr_time_utc": "15:50",
+  "duration": 645,
+  "aircraft_icao": "B772",
+  "counter": 9919,
+  "updated": "2024-01-20T15:59:59.000Z",
+  "days": [
+    "fri",
+    "sun",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "79",
+  "flight_iata": "AF79",
+  "flight_icao": "AFR79",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "LAX",
+  "dep_icao": "KLAX",
+  "dep_terminals": [
+    "TBIT"
+  ],
+  "dep_time": "21:05",
+  "dep_time_utc": "05:05",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "16:50",
+  "arr_time_utc": "15:50",
+  "duration": 645,
+  "aircraft_icao": "B772",
+  "counter": 6017,
+  "updated": "2024-01-16T15:59:51.000Z",
+  "days": [
+    "mon",
+    "sat"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "8985",
+  "flight_iata": "AF8985",
+  "flight_icao": "AFR8985",
+  "cs_airline_iata": "DL",
+  "cs_flight_iata": "DL290",
+  "cs_flight_number": "290",
+  "dep_iata": "LAX",
+  "dep_icao": "KLAX",
+  "dep_terminals": [
+    "3",
+    "TBIT"
+  ],
+  "dep_time": "17:00",
+  "dep_time_utc": "01:00",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "13:05",
+  "arr_time_utc": "12:05",
+  "duration": 665,
+  "aircraft_icao": null,
+  "counter": 18257,
+  "updated": "2024-01-21T00:58:04.000Z",
+  "days": [
+    "sat",
+    "sun",
+    "thu",
+    "tue"
+  ]
+},
+{
+  "airline_iata": "AA",
+  "airline_icao": "AAL",
+  "flight_number": "7943",
+  "flight_iata": "AA7943",
+  "flight_icao": "AAL7943",
+  "cs_airline_iata": "TN",
+  "cs_flight_iata": "TN8",
+  "cs_flight_number": "8",
+  "dep_iata": "LAX",
+  "dep_icao": "KLAX",
+  "dep_terminals": [
+    "TBIT"
+  ],
+  "dep_time": "11:40",
+  "dep_time_utc": "19:40",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2B"
+  ],
+  "arr_time": "07:20",
+  "arr_time_utc": "06:20",
+  "duration": 640,
+  "aircraft_icao": null,
+  "counter": 9648,
+  "updated": "2024-01-20T07:00:44.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sun"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "4085",
+  "flight_iata": "AF4085",
+  "flight_icao": "AFR4085",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "MIA",
+  "dep_icao": "KMIA",
+  "dep_terminals": [
+    "S"
+  ],
+  "dep_time": "00:30",
+  "dep_time_utc": "05:30",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "15:25",
+  "arr_time_utc": "14:25",
+  "duration": 535,
+  "aircraft_icao": null,
+  "counter": 159,
+  "updated": "2023-12-31T14:59:34.000Z",
+  "days": [
+    "sun"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "4089",
+  "flight_iata": "AF4089",
+  "flight_icao": "AFR4089",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "MIA",
+  "dep_icao": "KMIA",
+  "dep_terminals": [
+    "S"
+  ],
+  "dep_time": "00:45",
+  "dep_time_utc": "05:45",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "15:40",
+  "arr_time_utc": "14:40",
+  "duration": 535,
+  "aircraft_icao": "B77W",
+  "counter": 135,
+  "updated": "2023-12-23T15:01:04.000Z",
+  "days": [
+    "sat"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "95",
+  "flight_iata": "AF95",
+  "flight_icao": "AFR95",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "MIA",
+  "dep_icao": "KMIA",
+  "dep_terminals": [
+    "S"
+  ],
+  "dep_time": "23:00",
+  "dep_time_utc": "04:00",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "13:55",
+  "arr_time_utc": "12:55",
+  "duration": 535,
+  "aircraft_icao": null,
+  "counter": 12963,
+  "updated": "2024-01-21T00:58:04.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "99",
+  "flight_iata": "AF99",
+  "flight_icao": "AFR99",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "MIA",
+  "dep_icao": "KMIA",
+  "dep_terminals": [
+    "S"
+  ],
+  "dep_time": "19:50",
+  "dep_time_utc": "00:50",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "10:45",
+  "arr_time_utc": "09:45",
+  "duration": 535,
+  "aircraft_icao": "A359",
+  "counter": 22285,
+  "updated": "2024-01-21T00:58:04.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AA",
+  "airline_icao": "AAL",
+  "flight_number": "62",
+  "flight_iata": "AA62",
+  "flight_icao": "AAL62",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "MIA",
+  "dep_icao": "KMIA",
+  "dep_terminals": [
+    "N",
+    "C"
+  ],
+  "dep_time": "18:23",
+  "dep_time_utc": "23:23",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2B"
+  ],
+  "arr_time": "09:15",
+  "arr_time_utc": "08:15",
+  "duration": 532,
+  "aircraft_icao": null,
+  "counter": 3373,
+  "updated": "2024-01-21T18:59:06.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "356",
+  "flight_iata": "AF356",
+  "flight_icao": "AFR356",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2E"
+  ],
+  "dep_time": "14:20",
+  "dep_time_utc": "13:20",
+  "arr_iata": "YYZ",
+  "arr_icao": "CYYZ",
+  "arr_terminals": [
+    "3"
+  ],
+  "arr_time": "16:45",
+  "arr_time_utc": "21:45",
+  "duration": 505,
+  "aircraft_icao": "A332",
+  "counter": 23569,
+  "updated": "2024-01-21T00:00:46.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AC",
+  "airline_icao": "ACA",
+  "flight_number": "873",
+  "flight_iata": "AC873",
+  "flight_icao": "ACA873",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2B"
+  ],
+  "dep_time": "12:05",
+  "dep_time_utc": "11:05",
+  "arr_iata": "YYZ",
+  "arr_icao": "CYYZ",
+  "arr_terminals": [
+    "1"
+  ],
+  "arr_time": "14:40",
+  "arr_time_utc": "19:40",
+  "duration": 515,
+  "aircraft_icao": "B77W",
+  "counter": 22831,
+  "updated": "2024-01-20T09:57:48.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "351",
+  "flight_iata": "AF351",
+  "flight_icao": "AFR351",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "YYZ",
+  "dep_icao": "CYYZ",
+  "dep_terminals": [
+    "3"
+  ],
+  "dep_time": "18:55",
+  "dep_time_utc": "23:55",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2E"
+  ],
+  "arr_time": "08:10",
+  "arr_time_utc": "07:10",
+  "duration": 435,
+  "aircraft_icao": "A332",
+  "counter": 20903,
+  "updated": "2024-01-21T00:58:05.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AC",
+  "airline_icao": "ACA",
+  "flight_number": "872",
+  "flight_iata": "AC872",
+  "flight_icao": "ACA872",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "YYZ",
+  "dep_icao": "CYYZ",
+  "dep_terminals": [
+    "1"
+  ],
+  "dep_time": "20:45",
+  "dep_time_utc": "01:45",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2B"
+  ],
+  "arr_time": "10:25",
+  "arr_time_utc": "09:25",
+  "duration": 460,
+  "aircraft_icao": null,
+  "counter": 20342,
+  "updated": "2024-01-20T09:57:48.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1178",
+  "flight_iata": "AF1178",
+  "flight_icao": "AFR1178",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51178",
+  "cs_flight_number": "1178",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2G"
+  ],
+  "dep_time": "11:30",
+  "dep_time_utc": "10:30",
+  "arr_iata": "NAP",
+  "arr_icao": "LIRN",
+  "arr_terminals": null,
+  "arr_time": "13:45",
+  "arr_time_utc": "12:45",
+  "duration": 135,
+  "aircraft_icao": null,
+  "counter": 18830,
+  "updated": "2024-02-01T06:58:09.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1578",
+  "flight_iata": "AF1578",
+  "flight_icao": "AFR1578",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51578",
+  "cs_flight_number": "1578",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2G"
+  ],
+  "dep_time": "20:20",
+  "dep_time_utc": "19:20",
+  "arr_iata": "NAP",
+  "arr_icao": "LIRN",
+  "arr_terminals": null,
+  "arr_time": "22:40",
+  "arr_time_utc": "21:40",
+  "duration": 140,
+  "aircraft_icao": null,
+  "counter": 12984,
+  "updated": "2024-01-08T21:59:17.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1179",
+  "flight_iata": "AF1179",
+  "flight_icao": "AFR1179",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51179",
+  "cs_flight_number": "1179",
+  "dep_iata": "NAP",
+  "dep_icao": "LIRN",
+  "dep_terminals": null,
+  "dep_time": "14:40",
+  "dep_time_utc": "13:40",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "17:05",
+  "arr_time_utc": "16:05",
+  "duration": 145,
+  "aircraft_icao": "A320",
+  "counter": 8616,
+  "updated": "2024-01-29T12:56:33.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1579",
+  "flight_iata": "AF1579",
+  "flight_icao": "AFR1579",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51579",
+  "cs_flight_number": "1579",
+  "dep_iata": "NAP",
+  "dep_icao": "LIRN",
+  "dep_terminals": null,
+  "dep_time": "06:10",
+  "dep_time_utc": "05:10",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2F",
+    "1",
+    "2D",
+    "2G"
+  ],
+  "arr_time": "08:40",
+  "arr_time_utc": "07:40",
+  "duration": 150,
+  "aircraft_icao": null,
+  "counter": 25792,
+  "updated": "2024-01-09T08:59:37.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "386V",
+  "flight_iata": "AF386V",
+  "flight_icao": "AFR386V",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "PSA",
+  "dep_icao": "LIRP",
+  "dep_terminals": null,
+  "dep_time": "13:43",
+  "dep_time_utc": "12:43",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": null,
+  "arr_time": "15:25",
+  "arr_time_utc": "14:25",
+  "duration": 102,
+  "aircraft_icao": null,
+  "counter": 52,
+  "updated": "2024-01-18T15:00:37.000Z",
+  "days": [
+    "thu"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1006",
+  "flight_iata": "AF1006",
+  "flight_icao": "AFR1006",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51006",
+  "cs_flight_number": "1006",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2G"
+  ],
+  "dep_time": "18:15",
+  "dep_time_utc": "17:15",
+  "arr_iata": "DUS",
+  "arr_icao": "EDDL",
+  "arr_terminals": null,
+  "arr_time": "19:30",
+  "arr_time_utc": "18:30",
+  "duration": 75,
+  "aircraft_icao": "E170",
+  "counter": 9111,
+  "updated": "2024-01-29T12:56:31.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1106",
+  "flight_iata": "AF1106",
+  "flight_icao": "AFR1106",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51106",
+  "cs_flight_number": "1106",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2G"
+  ],
+  "dep_time": "20:30",
+  "dep_time_utc": "19:30",
+  "arr_iata": "DUS",
+  "arr_icao": "EDDL",
+  "arr_terminals": null,
+  "arr_time": "21:40",
+  "arr_time_utc": "20:40",
+  "duration": 70,
+  "aircraft_icao": "E190",
+  "counter": 15300,
+  "updated": "2024-01-29T12:56:31.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1306",
+  "flight_iata": "AF1306",
+  "flight_icao": "AFR1306",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51306",
+  "cs_flight_number": "1306",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2G"
+  ],
+  "dep_time": "07:30",
+  "dep_time_utc": "06:30",
+  "arr_iata": "DUS",
+  "arr_icao": "EDDL",
+  "arr_terminals": null,
+  "arr_time": "08:50",
+  "arr_time_utc": "07:50",
+  "duration": 80,
+  "aircraft_icao": null,
+  "counter": 16782,
+  "updated": "2024-01-29T08:00:01.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1406",
+  "flight_iata": "AF1406",
+  "flight_icao": "AFR1406",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51406",
+  "cs_flight_number": "1406",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2G"
+  ],
+  "dep_time": "15:40",
+  "dep_time_utc": "14:40",
+  "arr_iata": "DUS",
+  "arr_icao": "EDDL",
+  "arr_terminals": null,
+  "arr_time": "16:55",
+  "arr_time_utc": "15:55",
+  "duration": 75,
+  "aircraft_icao": "E170",
+  "counter": 14073,
+  "updated": "2024-01-29T12:56:31.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1506",
+  "flight_iata": "AF1506",
+  "flight_icao": "AFR1506",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51506",
+  "cs_flight_number": "1506",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2G"
+  ],
+  "dep_time": "12:35",
+  "dep_time_utc": "11:35",
+  "arr_iata": "DUS",
+  "arr_icao": "EDDL",
+  "arr_terminals": null,
+  "arr_time": "13:50",
+  "arr_time_utc": "12:50",
+  "duration": 75,
+  "aircraft_icao": null,
+  "counter": 16603,
+  "updated": "2024-01-29T12:56:31.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1022",
+  "flight_iata": "AF1022",
+  "flight_icao": "AFR1022",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51022",
+  "cs_flight_number": "1022",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2F",
+    "2G"
+  ],
+  "dep_time": "18:05",
+  "dep_time_utc": "17:05",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "1",
+    "2"
+  ],
+  "arr_time": "19:40",
+  "arr_time_utc": "18:40",
+  "duration": 95,
+  "aircraft_icao": null,
+  "counter": 7197,
+  "updated": "2024-01-07T19:00:14.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1122",
+  "flight_iata": "AF1122",
+  "flight_icao": "AFR1122",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2F"
+  ],
+  "dep_time": "20:50",
+  "dep_time_utc": "19:50",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "1",
+    "2"
+  ],
+  "arr_time": "22:20",
+  "arr_time_utc": "21:20",
+  "duration": 90,
+  "aircraft_icao": null,
+  "counter": 17036,
+  "updated": "2024-01-31T21:59:06.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1422",
+  "flight_iata": "AF1422",
+  "flight_icao": "AFR1422",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2F",
+    "1"
+  ],
+  "dep_time": "08:30",
+  "dep_time_utc": "07:30",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "1",
+    "2"
+  ],
+  "arr_time": "10:00",
+  "arr_time_utc": "09:00",
+  "duration": 90,
+  "aircraft_icao": null,
+  "counter": 17769,
+  "updated": "2024-02-01T06:58:09.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1622",
+  "flight_iata": "AF1622",
+  "flight_icao": "AFR1622",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51622",
+  "cs_flight_number": "1622",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2F",
+    "2G"
+  ],
+  "dep_time": "13:05",
+  "dep_time_utc": "12:05",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "1"
+  ],
+  "arr_time": "14:40",
+  "arr_time_utc": "13:40",
+  "duration": 95,
+  "aircraft_icao": null,
+  "counter": 23637,
+  "updated": "2024-02-01T06:58:09.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1822",
+  "flight_iata": "AF1822",
+  "flight_icao": "AFR1822",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2F",
+    "2G"
+  ],
+  "dep_time": "15:30",
+  "dep_time_utc": "14:30",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "1",
+    "2"
+  ],
+  "arr_time": "17:00",
+  "arr_time_utc": "16:00",
+  "duration": 90,
+  "aircraft_icao": null,
+  "counter": 15406,
+  "updated": "2024-02-01T06:58:09.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "LH",
+  "airline_icao": "DLH",
+  "flight_number": "2227",
+  "flight_iata": "LH2227",
+  "flight_icao": "DLH2227",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "1"
+  ],
+  "dep_time": "08:55",
+  "dep_time_utc": "07:55",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "2"
+  ],
+  "arr_time": "10:20",
+  "arr_time_utc": "09:20",
+  "duration": 85,
+  "aircraft_icao": null,
+  "counter": 2418,
+  "updated": "2024-01-27T09:59:34.000Z",
+  "days": [
+    "sat"
+  ]
+},
+{
+  "airline_iata": "LH",
+  "airline_icao": "DLH",
+  "flight_number": "2227",
+  "flight_iata": "LH2227",
+  "flight_icao": "DLH2227",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "1"
+  ],
+  "dep_time": "09:10",
+  "dep_time_utc": "08:10",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "2"
+  ],
+  "arr_time": "10:35",
+  "arr_time_utc": "09:35",
+  "duration": 85,
+  "aircraft_icao": null,
+  "counter": 2536,
+  "updated": "2024-01-28T10:00:32.000Z",
+  "days": [
+    "sun"
+  ]
+},
+{
+  "airline_iata": "LH",
+  "airline_icao": "DLH",
+  "flight_number": "2227",
+  "flight_iata": "LH2227",
+  "flight_icao": "DLH2227",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "1"
+  ],
+  "dep_time": "09:35",
+  "dep_time_utc": "08:35",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "2"
+  ],
+  "arr_time": "11:00",
+  "arr_time_utc": "10:00",
+  "duration": 85,
+  "aircraft_icao": null,
+  "counter": 9984,
+  "updated": "2024-02-02T03:57:35.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "LH",
+  "airline_icao": "DLH",
+  "flight_number": "2229",
+  "flight_iata": "LH2229",
+  "flight_icao": "DLH2229",
+  "cs_airline_iata": "CL",
+  "cs_flight_iata": "CL2229",
+  "cs_flight_number": "2229",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "1"
+  ],
+  "dep_time": "12:00",
+  "dep_time_utc": "11:00",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "2"
+  ],
+  "arr_time": "13:25",
+  "arr_time_utc": "12:25",
+  "duration": 85,
+  "aircraft_icao": null,
+  "counter": 18547,
+  "updated": "2024-02-02T03:57:35.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "LH",
+  "airline_icao": "DLH",
+  "flight_number": "2233",
+  "flight_iata": "LH2233",
+  "flight_icao": "DLH2233",
+  "cs_airline_iata": "4Y",
+  "cs_flight_iata": "4Y2233",
+  "cs_flight_number": "2233",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "1"
+  ],
+  "dep_time": "18:10",
+  "dep_time_utc": "17:10",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "2"
+  ],
+  "arr_time": "19:35",
+  "arr_time_utc": "18:35",
+  "duration": 85,
+  "aircraft_icao": null,
+  "counter": 15894,
+  "updated": "2024-01-31T19:01:16.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "LH",
+  "airline_icao": "DLH",
+  "flight_number": "2235",
+  "flight_iata": "LH2235",
+  "flight_icao": "DLH2235",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "1"
+  ],
+  "dep_time": "20:00",
+  "dep_time_utc": "19:00",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "2"
+  ],
+  "arr_time": "21:25",
+  "arr_time_utc": "20:25",
+  "duration": 85,
+  "aircraft_icao": null,
+  "counter": 13181,
+  "updated": "2024-02-01T21:00:54.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "LH",
+  "airline_icao": "DLH",
+  "flight_number": "2239",
+  "flight_iata": "LH2239",
+  "flight_icao": "DLH2239",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "1"
+  ],
+  "dep_time": "06:10",
+  "dep_time_utc": "05:10",
+  "arr_iata": "MUC",
+  "arr_icao": "EDDM",
+  "arr_terminals": [
+    "2"
+  ],
+  "arr_time": "07:35",
+  "arr_time_utc": "06:35",
+  "duration": 85,
+  "aircraft_icao": null,
+  "counter": 13424,
+  "updated": "2024-02-02T03:57:35.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1007",
+  "flight_iata": "AF1007",
+  "flight_icao": "AFR1007",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51007",
+  "cs_flight_number": "1007",
+  "dep_iata": "DUS",
+  "dep_icao": "EDDL",
+  "dep_terminals": null,
+  "dep_time": "20:10",
+  "dep_time_utc": "19:10",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "21:30",
+  "arr_time_utc": "20:30",
+  "duration": 80,
+  "aircraft_icao": "E170",
+  "counter": 9020,
+  "updated": "2024-01-29T12:56:31.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1107",
+  "flight_iata": "AF1107",
+  "flight_icao": "AFR1107",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51107",
+  "cs_flight_number": "1107",
+  "dep_iata": "DUS",
+  "dep_icao": "EDDL",
+  "dep_terminals": null,
+  "dep_time": "06:40",
+  "dep_time_utc": "05:40",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2F",
+    "2G"
+  ],
+  "arr_time": "08:00",
+  "arr_time_utc": "07:00",
+  "duration": 80,
+  "aircraft_icao": null,
+  "counter": 26425,
+  "updated": "2024-01-29T08:00:03.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1307",
+  "flight_iata": "AF1307",
+  "flight_icao": "AFR1307",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51307",
+  "cs_flight_number": "1307",
+  "dep_iata": "DUS",
+  "dep_icao": "EDDL",
+  "dep_terminals": null,
+  "dep_time": "09:30",
+  "dep_time_utc": "08:30",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "10:45",
+  "arr_time_utc": "09:45",
+  "duration": 75,
+  "aircraft_icao": null,
+  "counter": 16634,
+  "updated": "2024-01-29T10:00:24.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1407",
+  "flight_iata": "AF1407",
+  "flight_icao": "AFR1407",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51407",
+  "cs_flight_number": "1407",
+  "dep_iata": "DUS",
+  "dep_icao": "EDDL",
+  "dep_terminals": null,
+  "dep_time": "17:45",
+  "dep_time_utc": "16:45",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "19:00",
+  "arr_time_utc": "18:00",
+  "duration": 75,
+  "aircraft_icao": "E170",
+  "counter": 14625,
+  "updated": "2024-01-29T12:56:31.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1507",
+  "flight_iata": "AF1507",
+  "flight_icao": "AFR1507",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51507",
+  "cs_flight_number": "1507",
+  "dep_iata": "DUS",
+  "dep_icao": "EDDL",
+  "dep_terminals": null,
+  "dep_time": "14:30",
+  "dep_time_utc": "13:30",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "15:45",
+  "arr_time_utc": "14:45",
+  "duration": 75,
+  "aircraft_icao": "E170",
+  "counter": 16254,
+  "updated": "2024-01-29T12:56:31.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1007",
+  "flight_iata": "AF1007",
+  "flight_icao": "AFR1007",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51007",
+  "cs_flight_number": "1007",
+  "dep_iata": "DUS",
+  "dep_icao": "EDDL",
+  "dep_terminals": null,
+  "dep_time": "20:10",
+  "dep_time_utc": "19:10",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "21:30",
+  "arr_time_utc": "20:30",
+  "duration": 80,
+  "aircraft_icao": "E170",
+  "counter": 9020,
+  "updated": "2024-01-29T12:56:31.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1107",
+  "flight_iata": "AF1107",
+  "flight_icao": "AFR1107",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51107",
+  "cs_flight_number": "1107",
+  "dep_iata": "DUS",
+  "dep_icao": "EDDL",
+  "dep_terminals": null,
+  "dep_time": "06:40",
+  "dep_time_utc": "05:40",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2F",
+    "2G"
+  ],
+  "arr_time": "08:00",
+  "arr_time_utc": "07:00",
+  "duration": 80,
+  "aircraft_icao": null,
+  "counter": 26425,
+  "updated": "2024-01-29T08:00:03.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1307",
+  "flight_iata": "AF1307",
+  "flight_icao": "AFR1307",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51307",
+  "cs_flight_number": "1307",
+  "dep_iata": "DUS",
+  "dep_icao": "EDDL",
+  "dep_terminals": null,
+  "dep_time": "09:30",
+  "dep_time_utc": "08:30",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "10:45",
+  "arr_time_utc": "09:45",
+  "duration": 75,
+  "aircraft_icao": null,
+  "counter": 16634,
+  "updated": "2024-01-29T10:00:24.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1407",
+  "flight_iata": "AF1407",
+  "flight_icao": "AFR1407",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51407",
+  "cs_flight_number": "1407",
+  "dep_iata": "DUS",
+  "dep_icao": "EDDL",
+  "dep_terminals": null,
+  "dep_time": "17:45",
+  "dep_time_utc": "16:45",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "19:00",
+  "arr_time_utc": "18:00",
+  "duration": 75,
+  "aircraft_icao": "E170",
+  "counter": 14625,
+  "updated": "2024-01-29T12:56:31.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1507",
+  "flight_iata": "AF1507",
+  "flight_icao": "AFR1507",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51507",
+  "cs_flight_number": "1507",
+  "dep_iata": "DUS",
+  "dep_icao": "EDDL",
+  "dep_terminals": null,
+  "dep_time": "14:30",
+  "dep_time_utc": "13:30",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "15:45",
+  "arr_time_utc": "14:45",
+  "duration": 75,
+  "aircraft_icao": "E170",
+  "counter": 16254,
+  "updated": "2024-01-29T12:56:31.000Z",
+  "days": [
+    "fri",
+    "mon",
+    "sat",
+    "sun",
+    "thu",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1878",
+  "flight_iata": "AF1878",
+  "flight_icao": "AFR1878",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51878",
+  "cs_flight_number": "1878",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2G"
+  ],
+  "dep_time": "08:55",
+  "dep_time_utc": "07:55",
+  "arr_iata": "KRK",
+  "arr_icao": "EPKK",
+  "arr_terminals": [
+    "T"
+  ],
+  "arr_time": "11:05",
+  "arr_time_utc": "10:05",
+  "duration": 130,
+  "aircraft_icao": null,
+  "counter": 2211,
+  "updated": "2024-01-07T11:01:32.000Z",
+  "days": [
+    "sun"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1878",
+  "flight_iata": "AF1878",
+  "flight_icao": "AFR1878",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51878",
+  "cs_flight_number": "1878",
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2G"
+  ],
+  "dep_time": "14:40",
+  "dep_time_utc": "13:40",
+  "arr_iata": "KRK",
+  "arr_icao": "EPKK",
+  "arr_terminals": [
+    "T"
+  ],
+  "arr_time": "16:50",
+  "arr_time_utc": "15:50",
+  "duration": 130,
+  "aircraft_icao": null,
+  "counter": 3470,
+  "updated": "2024-01-04T16:02:27.000Z",
+  "days": [
+    "thu",
+    "tue"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1879",
+  "flight_iata": "AF1879",
+  "flight_icao": "AFR1879",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51879",
+  "cs_flight_number": "1879",
+  "dep_iata": "KRK",
+  "dep_icao": "EPKK",
+  "dep_terminals": [
+    "T"
+  ],
+  "dep_time": "11:50",
+  "dep_time_utc": "10:50",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "14:05",
+  "arr_time_utc": "13:05",
+  "duration": 135,
+  "aircraft_icao": "A318",
+  "counter": 2147,
+  "updated": "2024-01-07T13:58:09.000Z",
+  "days": [
+    "sun"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1879",
+  "flight_iata": "AF1879",
+  "flight_icao": "AFR1879",
+  "cs_airline_iata": "A5",
+  "cs_flight_iata": "A51879",
+  "cs_flight_number": "1879",
+  "dep_iata": "KRK",
+  "dep_icao": "EPKK",
+  "dep_terminals": [
+    "T"
+  ],
+  "dep_time": "17:35",
+  "dep_time_utc": "16:35",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2G"
+  ],
+  "arr_time": "19:50",
+  "arr_time_utc": "18:50",
+  "duration": 135,
+  "aircraft_icao": null,
+  "counter": 3686,
+  "updated": "2024-01-04T19:01:20.000Z",
+  "days": [
+    "thu",
+    "tue"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1532",
+  "flight_iata": "AF1532",
+  "flight_icao": "AFR1532",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2F"
+  ],
+  "dep_time": "09:30",
+  "dep_time_utc": "08:30",
+  "arr_iata": "ATH",
+  "arr_icao": "LGAV",
+  "arr_terminals": null,
+  "arr_time": "13:45",
+  "arr_time_utc": "11:45",
+  "duration": 195,
+  "aircraft_icao": null,
+  "counter": 14439,
+  "updated": "2024-01-08T12:03:14.000Z",
+  "days": [
+    "mon",
+    "thu"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1532",
+  "flight_iata": "AF1532",
+  "flight_icao": "AFR1532",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "CDG",
+  "dep_icao": "LFPG",
+  "dep_terminals": [
+    "2F"
+  ],
+  "dep_time": "10:00",
+  "dep_time_utc": "09:00",
+  "arr_iata": "ATH",
+  "arr_icao": "LGAV",
+  "arr_terminals": null,
+  "arr_time": "14:15",
+  "arr_time_utc": "12:15",
+  "duration": 195,
+  "aircraft_icao": null,
+  "counter": 3911,
+  "updated": "2024-01-28T13:00:05.000Z",
+  "days": [
+    "fri",
+    "sat",
+    "sun",
+    "tue",
+    "wed"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1533",
+  "flight_iata": "AF1533",
+  "flight_icao": "AFR1533",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "ATH",
+  "dep_icao": "LGAV",
+  "dep_terminals": [
+    "M"
+  ],
+  "dep_time": "14:45",
+  "dep_time_utc": "12:45",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2F",
+    "1",
+    "2G"
+  ],
+  "arr_time": "17:20",
+  "arr_time_utc": "16:20",
+  "duration": 215,
+  "aircraft_icao": null,
+  "counter": 14893,
+  "updated": "2024-01-08T17:00:10.000Z",
+  "days": [
+    "mon",
+    "thu"
+  ]
+},
+{
+  "airline_iata": "AF",
+  "airline_icao": "AFR",
+  "flight_number": "1533",
+  "flight_iata": "AF1533",
+  "flight_icao": "AFR1533",
+  "cs_airline_iata": null,
+  "cs_flight_iata": null,
+  "cs_flight_number": null,
+  "dep_iata": "ATH",
+  "dep_icao": "LGAV",
+  "dep_terminals": [
+    "M"
+  ],
+  "dep_time": "15:15",
+  "dep_time_utc": "13:15",
+  "arr_iata": "CDG",
+  "arr_icao": "LFPG",
+  "arr_terminals": [
+    "2F",
+    "2D",
+    "1"
+  ],
+  "arr_time": "17:50",
+  "arr_time_utc": "16:50",
+  "duration": 215,
+  "aircraft_icao": "A321",
+  "counter": 4142,
+  "updated": "2024-01-31T17:00:34.000Z",
+  "days": [
+    "fri",
+    "sat",
+    "sun",
+    "tue",
+    "wed"
+  ]
+}]

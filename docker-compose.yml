@@ -1,0 +1,22 @@
+version: "3.3"
+
+services:
+  mongodb:
+    image: mongo:5.0
+    container_name: my_mongo
+    volumes:
+      - ./db:/data/db
+    ports:
+      - "27017:27017"
+
+  data_insert:
+    build:
+      context: ./insert_data
+    depends_on:
+      - mongodb
+
+  fastapi_app:
+    build:
+      context: ./fastapi_app
+    depends_on:
+      - mongodb
