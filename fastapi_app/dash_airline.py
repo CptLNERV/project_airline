@@ -6,6 +6,8 @@ from bson import ObjectId
 import pandas as pd
 import plotly.express as px
 import requests
+import plotly.graph_objs as go
+#test branchmain
 
 # Fonction pour se connecter à MongoDB
 def connexionMongo():
@@ -57,7 +59,13 @@ index_page = html.Div([
     dcc.Link(html.Button('Statistiques des vols par Jour de la Semaine'), href='/voldays'),
     html.Br(),
     html.Br(),
-    dcc.Link(html.Button('Information du vol en passant par FastAPI'), href='/flight_info')])
+    dcc.Link(html.Button('Information du vol en passant par FastAPI'), href='/flight_info'),
+    html.Br(),
+    html.Br(),
+    dcc.Link(html.Button('Airport latitude and longitude statistics'), href='/scatter_plot')
+    ]),
+
+
 
 # Layout de la page airports
 airports_layout = html.Div([
@@ -76,11 +84,14 @@ airports_layout = html.Div([
     ),
     html.Div(id='airport-stats')
 ])
+
+
 # Ajouter le layout de la page airports à l'application
 app.layout = html.Div([
     dcc.Location(id='url', refresh=False),
     html.Div(id='page-content')
 ])
+
 
 # Callback pour mettre à jour les statistiques de l'aéroport en fonction du pays sélectionné
 @app.callback(
@@ -113,14 +124,24 @@ def update_airport_stats(selected_countries):
 
             stats_tables.append(stats_table)
 
+
         return stats_tables
     else:
-        return html.Div("Sélectionnez au moins un pays pour afficher les statistiques de l'aéroport.")
+        return (html.Div("Sélectionnez au moins un pays pour afficher les statistiques de l'aéroport."),None)
 
 # Layout de la page volsdays
 voldays_layout = html.Div([
     html.H1("Statistiques des Vols par Jour de la Semaine"),
     dcc.Link(html.Button('Revenir à la page d\'accueil'), href='/index_page'),
+    dcc.RadioItems(
+        id='chart-type',
+        options=[
+            {'label': 'Bar Chart', 'value': 'bar'},
+            {'label': 'Line Chart', 'value': 'line'}
+        ],
+        value='bar',
+        labelStyle={'display': 'inline-block'}
+    ),
     html.Br(),
     dcc.Graph(id='volsdays-graph')
 ])
@@ -136,6 +157,7 @@ app.layout = html.Div([
     [Input('url', 'pathname')]
 )
 def update_voldays_graph(pathname):
+    global df_x
     if pathname == '/voldays':
         # Récupérer les données de la collection "routes"
         query = {}
@@ -146,7 +168,7 @@ def update_voldays_graph(pathname):
 
         # Compter le nombre de vols par jour de la semaine
         df_volsdays = df_routes['days'].explode().value_counts().sort_index()
-
+        df_x = df_volsdays
         # Créer un graphique à barres avec des couleurs personnalisées
         fig = px.bar(
             x=df_volsdays.index,
@@ -159,6 +181,7 @@ def update_voldays_graph(pathname):
         return fig
     else:
         return dash.no_update
+    
 
 # Layout de la page volsfromto
 volsfromto_layout = html.Div([
@@ -273,6 +296,66 @@ def update_flight_info(n_clicks, flight_iata):
     else:
         return html.Div("Entrer flight IATA code et puis cliquer 'Obtenir Information'.")
 
+
+#layout for scatter_plot_layout
+connexionMongo()
+client = MongoClient("mongodb://localhost:27017/")
+collection = client["airlabs"]["airports"]
+collection
+
+cursor = collection.find({})
+df = pd.DataFrame(list(cursor))
+
+# Close the connection to MongoDB
+client.close()
+
+# Viewing the first few rows of a DataFrame
+# df
+
+# Create drop-down menu options for country codes
+country_options = [{'label': code, 'value': code} for code in df['country_code'].unique()]
+
+# Define Layout
+scatter_plot_layout= html.Div([
+    dcc.Link(html.Button('Revenir à la page d\'accueil'), href='/index_page'),
+    dcc.Dropdown(
+        id='dropdown',
+        options=country_options,
+        value=country_options[0]['value']  # The first country code is selected by default
+    ),
+    dcc.Graph(id='scatter-plot')
+])
+
+# Callback function: update scatterplot
+@app.callback(
+    Output('scatter-plot', 'figure'),
+    [Input('dropdown', 'value')]
+)
+def update_scatter_plot(selected_country):
+    # Filtering of data according to selected countries
+    filtered_df = df[df['country_code'] == selected_country]
+    
+    # Creating Scatterplots
+    scatter_plot = {
+        'data': [
+            {
+                'x': filtered_df['lat'],
+                'y': filtered_df['lng'],
+                'mode': 'markers',
+                'marker': {'size': 8}
+            }
+        ],
+        'layout': {
+            'title': f'Scatter Plot of Airports in {selected_country}',
+            'xaxis': {'title': 'Latitude'},
+            'yaxis': {'title': 'Longitude'}
+        }
+    }
+    
+    return scatter_plot
+
+
+
 # Callback pour afficher la page appropriée en fonction de l'URL
 @app.callback(Output('page-content', 'children'),
               [Input('url', 'pathname')])
@@ -285,6 +368,8 @@ def display_page(pathname):
         return volsfromto_layout
     elif pathname == '/flight_info':
         return flight_info_layout
+    elif pathname == '/scatter_plot':
+        return scatter_plot_layout
     else:
         return index_page
 
